@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{707079B8-95E9-4DC4-B228-949DB4BD21C3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Playground/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLibrary/EmptyInterface.cs">
     <Files>
-      <File FileName="Playground/Program.cs" Line="27" Column="2" />
-      <File FileName="MyLibrary/MyObject.cs" Line="77" Column="4" />
+      <File FileName="Playground/Program.cs" Line="15" Column="41" />
+      <File FileName="MyLibrary/MyObject.cs" Line="25" Column="6" />
+      <File FileName="MyLibrary2/MyClass.cs" Line="7" Column="4" />
+      <File FileName="MyLibrary/Customer.cs" Line="4" Column="18" />
+      <File FileName="MyLibrary/Calculate.cs" Line="4" Column="20" />
+      <File FileName="MyLibrary/EmptyInterface.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

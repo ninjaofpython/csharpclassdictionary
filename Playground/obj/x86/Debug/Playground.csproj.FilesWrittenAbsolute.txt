@@ -3,3 +3,7 @@
 /Users/saamaphinda-lebbie/Projects/Playground/Playground/bin/Debug/Playground.exe
 /Users/saamaphinda-lebbie/Projects/Playground/Playground/obj/x86/Debug/Playground.exe
 /Users/saamaphinda-lebbie/Projects/Playground/Playground/obj/x86/Debug/Playground.exe.mdb
+/Users/saamaphinda-lebbie/Projects/Playground/Playground/bin/Debug/MyLibrary.dll
+/Users/saamaphinda-lebbie/Projects/Playground/Playground/bin/Debug/MyLibrary.dll.mdb
+/Users/saamaphinda-lebbie/Projects/Playground/Playground/bin/Debug/MyLibrary2.dll
+/Users/saamaphinda-lebbie/Projects/Playground/Playground/bin/Debug/MyLibrary2.dll.mdb

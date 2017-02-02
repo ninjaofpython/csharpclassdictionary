@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{3C6D784C-38F7-4365-883B-EB97B6E8BF26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySecondLibrary", "MyLibrary2\MySecondLibrary.csproj", "{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{3C6D784C-38F7-4365-883B-EB97B6E8BF26}.Debug|x86.Build.0 = Debug|Any CPU
 		{3C6D784C-38F7-4365-883B-EB97B6E8BF26}.Release|x86.ActiveCfg = Release|Any CPU
 		{3C6D784C-38F7-4365-883B-EB97B6E8BF26}.Release|x86.Build.0 = Release|Any CPU
+		{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}.Debug|x86.Build.0 = Debug|Any CPU
+		{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}.Release|x86.ActiveCfg = Release|Any CPU
+		{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

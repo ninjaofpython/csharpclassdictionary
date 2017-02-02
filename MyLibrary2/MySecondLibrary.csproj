@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C6D784C-38F7-4365-883B-EB97B6E8BF26}</ProjectGuid>
+    <ProjectGuid>{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>MyLibrary</RootNamespace>
-    <AssemblyName>MyLibrary</AssemblyName>
+    <RootNamespace>MyLibrary2</RootNamespace>
+    <AssemblyName>MyLibrary2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -30,11 +30,8 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyObject.cs" />
+    <Compile Include="MyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Customer.cs" />
-    <Compile Include="Calculate.cs" />
-    <Compile Include="ICalculator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

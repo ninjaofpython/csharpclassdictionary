@@ -1,9 +1,7 @@
 ﻿using System;
-namespace MyLibrary
+namespace Playground
 {
-	public class MyClass
-	{
-		public class MyObject
+	public class MyObject
 		{
 			public MyObject()
 			{
@@ -76,4 +74,3 @@ namespace MyLibrary
 			}
 		}
 	}
-}

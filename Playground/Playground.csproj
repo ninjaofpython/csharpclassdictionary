@@ -35,5 +35,15 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyLibrary\MyLibrary.csproj">
+      <Project>{3C6D784C-38F7-4365-883B-EB97B6E8BF26}</Project>
+      <Name>MyLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyLibrary2\MySecondLibrary.csproj">
+      <Project>{26B27125-EBAE-4B4D-ACB3-E08BBA307AC4}</Project>
+      <Name>MySecondLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
